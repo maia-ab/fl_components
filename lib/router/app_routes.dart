@@ -18,7 +18,7 @@ class AppRoutes {
         screen: const Listview1Screen()),
     MenuOption(
         route: 'listview2',
-        icon: Icons.movie_outlined,
+        icon: Icons.list,
         name: 'Listview2 Screen',
         screen: const Listview2Screen()),
     MenuOption(
