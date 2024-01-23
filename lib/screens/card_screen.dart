@@ -16,6 +16,7 @@ class CardScreen extends StatelessWidget {
           CustomCardType1(),
           SizedBox(height: 10),
           CustomCardType2(
+            name: "Pinguinitos",
             imageUrl:
                 'https://sayhueque.com/wp-content/uploads/2023/07/ushuaia-penguins-harberton-2-edited.jpg',
           ),
