@@ -34,6 +34,7 @@ class AppRoutes {
   ];
 
   static Map<String, Widget Function(BuildContext)> getAppRoutes() {
+    
     Map<String, Widget Function(BuildContext)> appRoutes = {};
 
     for (final option in menuOptions) {
